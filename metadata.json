@@ -1,0 +1,6 @@
+{
+  "name": "Cek Simpanan Koperasi",
+  "description": "Portal cek simpanan pokok dan wajib anggota koperasi terhubung Google Sheets dan Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
